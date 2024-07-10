@@ -50,7 +50,7 @@ hr {
 .vertical-hr {
   transform: rotate(90deg);
   z-index: 10;
-  right: 128px;
+  right: 320px;
 }
 
 .upside-text {
