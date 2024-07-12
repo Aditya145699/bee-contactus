@@ -202,7 +202,7 @@ br {
 
 .btn {
   margin-top: 40px;
-  margin-right: 123px;
+  margin-right: 77px;
 }
 
 .btn button {
@@ -222,7 +222,7 @@ br {
   margin-top: 40px;
   display: flex;
   gap: 3px;
-  margin-left: 12px;
+  margin-left: 34px;
 }
 
 .so-icons a {
@@ -298,6 +298,7 @@ br {
   .so-icons {
     align-items: center;
     justify-content: center;
+    margin-left: 53px;
   }
 
   .img-right {
